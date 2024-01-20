@@ -1,0 +1,28 @@
+.pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.pagination a {
+    margin: 0 5px;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #333;
+}
+
+.pagination a.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.limit-input {
+    margin-bottom: 10px;
+}
+.description {
+    max-height: 1.5em; /* Adjust the value based on your design */
+    overflow: hidden;
+    text-overflow: ellipsis; /* Adds ellipsis (...) if text overflows */
+}

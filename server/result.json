@@ -1,0 +1,143 @@
+[
+  {
+    "username": "mrenigmatic19",
+    "name": "Ritik Chaurasia",
+    "twitter": null,
+    "company": null,
+    "type": "User",
+    "url": "https://github.com/mrenigmatic19",
+    "profile": "https://avatars.githubusercontent.com/u/96334291?v=4"
+  },
+  [
+    {
+      "description": null,
+      "language": [
+        "EJS",
+        "JavaScript",
+        "CSS"
+      ],
+      "name": "AdminFort"
+    },
+    {
+      "description": null,
+      "language": [
+        "EJS",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "HTML"
+      ],
+      "name": "Assessment"
+    },
+    {
+      "description": null,
+      "language": [
+        "CSS",
+        "EJS",
+        "Python",
+        "JavaScript"
+      ],
+      "name": "ClearCam"
+    },
+    {
+      "description": "Learn Basic to Advanced Data Structures and Algorithms in your Favorite language (Go, Python, Javascript, C++, Java) [Contributions are welcome, Stars are highly appreciated!]",
+      "language": [
+        "C++",
+        "Go",
+        "Java",
+        "Python",
+        "JavaScript"
+      ],
+      "name": "data-structures-and-algorithms"
+    },
+    {
+      "description": "tp",
+      "language": [],
+      "name": "Enigma-Dungeon"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "FindRepo"
+    },
+    {
+      "description": null,
+      "language": [
+        "Python"
+      ],
+      "name": "imagedehaze"
+    },
+    {
+      "description": null,
+      "language": [
+        "EJS",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "name": "MedaFind"
+    },
+    {
+      "description": null,
+      "language": [
+        "EJS",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "name": "MedAppoint"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "mrenigmatic19"
+    },
+    {
+      "description": null,
+      "language": [
+        "EJS",
+        "CSS",
+        "JavaScript"
+      ],
+      "name": "My-Diary"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "Prada-Bezuban"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "Project"
+    },
+    {
+      "description": null,
+      "language": [
+        "C++",
+        "Python"
+      ],
+      "name": "projects"
+    },
+    {
+      "description": "Implementation of simple Blockchain using NodeJS & MongoDB",
+      "language": [
+        "JavaScript"
+      ],
+      "name": "simple-blockchain-node-mongo"
+    },
+    {
+      "description": null,
+      "language": [
+        "Python",
+        "Jupyter Notebook"
+      ],
+      "name": "video-dehazing"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "VoiceLingo"
+    }
+  ]
+]
