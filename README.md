@@ -1,12 +1,13 @@
-# FindRepo :- Find Repositories by Username
+![Screenshot 2024-01-21 191538](https://github.com/mrenigmatic19/FindRepo/assets/96334291/1d782ecd-c830-4132-8a3a-ad365d2bffdb)# FindRepo :- Find Repositories by Username
 ## Introduction:
  This project involves creating a web page that displays public Github repositories belonging to a specific user. The main goal is to design a user-friendly interface with functionality to retrieve and showcase repository information.
+![Screenshot 2024-01-21 190203](https://github.com/mrenigmatic19/FindRepo/assets/96334291/e6176951-c084-4f80-b5c1-49ad68328e61)
 
 ## Prerequisites:
 To run this website, you need to have the following installed on your computer:
 
 - Node.js
-  
+
 ## Getting Started:
 
 - Clone the repository from the Github link provided.
@@ -35,13 +36,16 @@ npm run start-dev
 
 3. **User-Friendly Search Page:**
    - Crafted an intuitive search page, enhancing user interaction and accessibility.
+     ![Screenshot 2024-01-21 191538](https://github.com/mrenigmatic19/FindRepo/assets/96334291/89ae6d74-5aae-4b42-9b88-5ce86db1b2b5)
 
 4. **Result Page Enhancement:**
    - Designed a visually appealing result page displaying user details and repositories.
+     ![Screenshot 2024-01-21 191959](https://github.com/mrenigmatic19/FindRepo/assets/96334291/fdf13915-2492-42de-a973-5b21a22f32b2)
    - Showcased repository information, including name, description, and up to three primary languages used.
 
 5. **Detailed Repository View:**
    - Enabled users to click on a repository for an in-depth view.
+     ![Screenshot 2024-01-21 191914](https://github.com/mrenigmatic19/FindRepo/assets/96334291/85cf45aa-e589-4029-80b8-f979b121a51e)
    - Facilitated a seamless transition to the selected repository.
 
 6. **Loader Integration:**
@@ -49,6 +53,7 @@ npm run start-dev
 
 7. **Hosting on https://www.solvedsa.com:**
    - Successfully deployed and hosted the project on solvedsa.com for convenient access.
+     ![Screenshot 2024-01-21 191637](https://github.com/mrenigmatic19/FindRepo/assets/96334291/2bbe44df-a257-41b0-b6e7-5f1029a364d2)
 
 8. **Technology Stack:**
    - Utilized HTML, CSS, Bootstrap, and JavaScript (Node.js, Express.js).
@@ -57,6 +62,8 @@ npm run start-dev
 9. **User-Defined Items Per Page:**
    - Empowered users to set the displayed items per page within the range of 1 to 100.
    - Default setting optimized at 10 items per page for a balanced user experience.
+     ![Screenshot 2024-01-21 191914](https://github.com/mrenigmatic19/FindRepo/assets/96334291/41551356-3e9d-4182-8bca-ea7edd9c101e)
+   - Look at lower right corner.
 
 These achievements collectively deliver a comprehensive and user-centric GitHub Repositories Explorer, showcasing technical prowess and thoughtful design.
   
