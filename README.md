@@ -59,6 +59,7 @@ nodemon ./server/app.js
 
 7. **Hosting on https://www.solvedsa.com:**
    - Successfully deployed and hosted the project on solvedsa.com for convenient access.
+   - Limited to two uses per IP address.
      
 8. **Technology Stack:**
    - Utilized HTML, CSS, Bootstrap, and JavaScript (Node.js, Express.js).
