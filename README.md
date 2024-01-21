@@ -21,6 +21,11 @@ npm i http node-fetch nodemon package-lock-only path
 ```bash
 npm run start-dev
 ```
+or
+```bash
+nodemon ./server/app.js
+```
+
 - Open your web browser and go to the following URL:
 `http://localhost:3001/`
 
