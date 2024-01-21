@@ -17,13 +17,13 @@ npm i connect-flash ejs express express-session fs
 npm i http node-fetch nodemon package-lock-only path
 ```
 - Create a new terminal window and start the Node.js server using the following command:
-`npm run start-dev`
+```bash
+npm run start-dev
+```
 - Open your web browser and go to the following URL:
 `http://localhost:3001/`
 
 ## Website Features:
-
-**Project Achievements: Github Repositories Explorer**
 
 1. **GitHub API Integration:**
    - Developed a custom API for seamless integration with the GitHub REST API.
