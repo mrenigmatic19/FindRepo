@@ -71,6 +71,10 @@ nodemon ./server/app.js
    - Look at lower right corner.
      ![Screenshot 2024-01-21 191914](https://github.com/mrenigmatic19/FindRepo/assets/96334291/41551356-3e9d-4182-8bca-ea7edd9c101e)
 
+10. **Another Search Key:**
+     ![Screenshot 2024-01-21 195855](https://github.com/mrenigmatic19/FindRepo/assets/96334291/f46828f2-458f-4a55-adde-9de1f29b686a)
+    
+
 These achievements collectively deliver a comprehensive and user-centric GitHub Repositories Explorer, showcasing technical prowess and thoughtful design.
   
 ## Conclusion:
