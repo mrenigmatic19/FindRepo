@@ -16,7 +16,7 @@ app.use(session({
     resave:true,
     saveUninitialized:true,
 }))
-
+ 
 
 const templatepath=path.join(__dirname,'../public')
 app.set("view engine","ejs") 

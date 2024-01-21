@@ -1,166 +1,167 @@
 [
   {
-    "username": "mrenigmatic19",
-    "name": "Ritik Chaurasia",
+    "username": "Rishita7281",
+    "name": "Rishita Rai",
     "twitter": null,
     "company": null,
     "type": "User",
-    "url": "https://github.com/mrenigmatic19",
+    "url": "https://github.com/Rishita7281",
     "email": null,
     "location": null,
-    "profile": "https://avatars.githubusercontent.com/u/96334291?v=4"
+    "profile": "https://avatars.githubusercontent.com/u/119398306?v=4"
   },
   [
     {
       "description": null,
       "language": [
-        "EJS",
-        "JavaScript",
-        "CSS"
+        "Python"
       ],
-      "name": "AdminFort",
-      "url": "https://github.com/mrenigmatic19/AdminFort"
+      "name": "Car_counting",
+      "url": "https://github.com/Rishita7281/Car_counting"
     },
     {
       "description": null,
-      "language": [
-        "EJS",
-        "CSS",
-        "JavaScript",
-        "TypeScript",
-        "HTML"
-      ],
-      "name": "Assessment",
-      "url": "https://github.com/mrenigmatic19/Assessment"
+      "language": [],
+      "name": "Classroom-question-solutions",
+      "url": "https://github.com/Rishita7281/Classroom-question-solutions"
     },
     {
       "description": null,
       "language": [
         "CSS",
-        "EJS",
-        "Python",
+        "HTML",
         "JavaScript"
       ],
       "name": "ClearCam",
-      "url": "https://github.com/mrenigmatic19/ClearCam"
+      "url": "https://github.com/Rishita7281/ClearCam"
     },
     {
-      "description": "Learn Basic to Advanced Data Structures and Algorithms in your Favorite language (Go, Python, Javascript, C++, Java) [Contributions are welcome, Stars are highly appreciated!]",
+      "description": null,
+      "language": [],
+      "name": "Codes-solutions",
+      "url": "https://github.com/Rishita7281/Codes-solutions"
+    },
+    {
+      "description": "open source project",
       "language": [
-        "C++",
-        "Go",
+        "Jupyter Notebook",
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Dart",
+        "SCSS",
+        "Python",
         "Java",
-        "Python",
-        "JavaScript"
-      ],
-      "name": "data-structures-and-algorithms",
-      "url": "https://github.com/mrenigmatic19/data-structures-and-algorithms"
-    },
-    {
-      "description": "tp",
-      "language": [],
-      "name": "Enigma-Dungeon",
-      "url": "https://github.com/mrenigmatic19/Enigma-Dungeon"
-    },
-    {
-      "description": null,
-      "language": [
-        "EJS",
-        "JavaScript",
-        "CSS"
-      ],
-      "name": "FindRepo",
-      "url": "https://github.com/mrenigmatic19/FindRepo"
-    },
-    {
-      "description": null,
-      "language": [
-        "Python"
-      ],
-      "name": "imagedehaze",
-      "url": "https://github.com/mrenigmatic19/imagedehaze"
-    },
-    {
-      "description": null,
-      "language": [
-        "EJS",
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "name": "MedaFind",
-      "url": "https://github.com/mrenigmatic19/MedaFind"
-    },
-    {
-      "description": null,
-      "language": [
-        "EJS",
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "name": "MedAppoint",
-      "url": "https://github.com/mrenigmatic19/MedAppoint"
-    },
-    {
-      "description": null,
-      "language": [],
-      "name": "mrenigmatic19",
-      "url": "https://github.com/mrenigmatic19/mrenigmatic19"
-    },
-    {
-      "description": null,
-      "language": [
-        "EJS",
-        "CSS",
-        "JavaScript"
-      ],
-      "name": "My-Diary",
-      "url": "https://github.com/mrenigmatic19/My-Diary"
-    },
-    {
-      "description": null,
-      "language": [],
-      "name": "Prada-Bezuban",
-      "url": "https://github.com/mrenigmatic19/Prada-Bezuban"
-    },
-    {
-      "description": null,
-      "language": [],
-      "name": "Project",
-      "url": "https://github.com/mrenigmatic19/Project"
-    },
-    {
-      "description": null,
-      "language": [
         "C++",
-        "Python"
+        "Elixir",
+        "TypeScript",
+        "CMake",
+        "EJS",
+        "PHP",
+        "Ruby",
+        "Swift",
+        "C",
+        "Dockerfile",
+        "Kotlin",
+        "Hack",
+        "Objective-C",
+        "Batchfile",
+        "Shell",
+        "Procfile",
+        "Makefile"
       ],
-      "name": "projects",
-      "url": "https://github.com/mrenigmatic19/projects"
-    },
-    {
-      "description": "Implementation of simple Blockchain using NodeJS & MongoDB",
-      "language": [
-        "JavaScript"
-      ],
-      "name": "simple-blockchain-node-mongo",
-      "url": "https://github.com/mrenigmatic19/simple-blockchain-node-mongo"
-    },
-    {
-      "description": null,
-      "language": [
-        "Python",
-        "Jupyter Notebook"
-      ],
-      "name": "video-dehazing",
-      "url": "https://github.com/mrenigmatic19/video-dehazing"
+      "name": "Dev-Geeks",
+      "url": "https://github.com/Rishita7281/Dev-Geeks"
     },
     {
       "description": null,
       "language": [],
-      "name": "VoiceLingo",
-      "url": "https://github.com/mrenigmatic19/VoiceLingo"
+      "name": "Dev-Geeks-",
+      "url": "https://github.com/Rishita7281/Dev-Geeks-"
+    },
+    {
+      "description": null,
+      "language": [
+        "HTML",
+        "Python"
+      ],
+      "name": "frontendtemplates2",
+      "url": "https://github.com/Rishita7281/frontendtemplates2"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "Leetcode-classroom-solutions",
+      "url": "https://github.com/Rishita7281/Leetcode-classroom-solutions"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "Leetcode-queue-codes-27-04-2023",
+      "url": "https://github.com/Rishita7281/Leetcode-queue-codes-27-04-2023"
+    },
+    {
+      "description": "Let's learn and grow together...",
+      "language": [],
+      "name": "Leetcode-Series",
+      "url": "https://github.com/Rishita7281/Leetcode-Series"
+    },
+    {
+      "description": null,
+      "language": [
+        "EJS",
+        "CSS",
+        "JavaScript"
+      ],
+      "name": "My-Personal-Diary",
+      "url": "https://github.com/Rishita7281/My-Personal-Diary"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "Personal-Portfolio",
+      "url": "https://github.com/Rishita7281/Personal-Portfolio"
+    },
+    {
+      "description": null,
+      "language": [
+        "SCSS",
+        "EJS",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "PHP"
+      ],
+      "name": "Prada-Bezuban",
+      "url": "https://github.com/Rishita7281/Prada-Bezuban"
+    },
+    {
+      "description": "Queue",
+      "language": [],
+      "name": "Queue",
+      "url": "https://github.com/Rishita7281/Queue"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "recursion",
+      "url": "https://github.com/Rishita7281/recursion"
+    },
+    {
+      "description": null,
+      "language": [],
+      "name": "Rishita7281",
+      "url": "https://github.com/Rishita7281/Rishita7281"
+    },
+    {
+      "description": null,
+      "language": [
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "name": "Virtual-Piano",
+      "url": "https://github.com/Rishita7281/Virtual-Piano"
     }
   ]
 ]

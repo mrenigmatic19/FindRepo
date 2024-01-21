@@ -2,10 +2,10 @@ const express = require('express');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 const fs = require('fs').promises;
 
-const getIndex = async (req, res) => {
-    res.render('index',{message:req.flash('msg')});
-};
 
+const getIndex=async (req,res)=>{
+    res.render('index',{message:req.flash('msg')})
+}
 
 const saveToJsonFile = async (filename, data) => {
     try {
@@ -16,6 +16,7 @@ const saveToJsonFile = async (filename, data) => {
         console.error(`Error saving data to ${filename}: ${error.message}`);
     }
 };
+
 
 
 const postIndex = async (req, res) => {
@@ -60,8 +61,10 @@ const postIndex = async (req, res) => {
                 // Log the data to console
                 apiData.push(reposData);
                 await saveToJsonFile('result.json', apiData);
+                
                 res.redirect('/result');
             }  else {
+                
                 req.flash('msg', 'Use Limit Exceed');
                 res.redirect('/');
             }
@@ -72,6 +75,7 @@ const postIndex = async (req, res) => {
             req.flash('msg','Use Limit Exeed')
         else
             req.flash('msg','Internal Api Error')
+           
             res.redirect('/');
         }
     } catch (error) {
@@ -81,4 +85,4 @@ const postIndex = async (req, res) => {
     }
 };
 
-module.exports = { getIndex, postIndex };
+module.exports = { getIndex, postIndex }
