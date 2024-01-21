@@ -55,11 +55,11 @@ nodemon ./server/app.js
 
 6. **Loader Integration:**
    - Implemented loaders during data fetching and processing stages, ensuring a polished and responsive interface.
+     ![Screenshot 2024-01-21 191637](https://github.com/mrenigmatic19/FindRepo/assets/96334291/2bbe44df-a257-41b0-b6e7-5f1029a364d2)
 
 7. **Hosting on https://www.solvedsa.com:**
    - Successfully deployed and hosted the project on solvedsa.com for convenient access.
-     ![Screenshot 2024-01-21 191637](https://github.com/mrenigmatic19/FindRepo/assets/96334291/2bbe44df-a257-41b0-b6e7-5f1029a364d2)
-
+     
 8. **Technology Stack:**
    - Utilized HTML, CSS, Bootstrap, and JavaScript (Node.js, Express.js).
    - Demonstrated proficiency in modern web development technologies.
