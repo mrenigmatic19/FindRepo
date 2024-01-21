@@ -45,13 +45,13 @@ nodemon ./server/app.js
 
 4. **Result Page Enhancement:**
    - Designed a visually appealing result page displaying user details and repositories.
-     ![Screenshot 2024-01-21 191959](https://github.com/mrenigmatic19/FindRepo/assets/96334291/fdf13915-2492-42de-a973-5b21a22f32b2)
    - Showcased repository information, including name, description, and up to three primary languages used.
+     ![Screenshot 2024-01-21 191959](https://github.com/mrenigmatic19/FindRepo/assets/96334291/fdf13915-2492-42de-a973-5b21a22f32b2)
 
 5. **Detailed Repository View:**
    - Enabled users to click on a repository for an in-depth view.
-     ![Screenshot 2024-01-21 191914](https://github.com/mrenigmatic19/FindRepo/assets/96334291/85cf45aa-e589-4029-80b8-f979b121a51e)
    - Facilitated a seamless transition to the selected repository.
+     ![Screenshot 2024-01-21 191914](https://github.com/mrenigmatic19/FindRepo/assets/96334291/85cf45aa-e589-4029-80b8-f979b121a51e)
 
 6. **Loader Integration:**
    - Implemented loaders during data fetching and processing stages, ensuring a polished and responsive interface.
@@ -67,8 +67,8 @@ nodemon ./server/app.js
 9. **User-Defined Items Per Page:**
    - Empowered users to set the displayed items per page within the range of 1 to 100.
    - Default setting optimized at 10 items per page for a balanced user experience.
-     ![Screenshot 2024-01-21 191914](https://github.com/mrenigmatic19/FindRepo/assets/96334291/41551356-3e9d-4182-8bca-ea7edd9c101e)
    - Look at lower right corner.
+     ![Screenshot 2024-01-21 191914](https://github.com/mrenigmatic19/FindRepo/assets/96334291/41551356-3e9d-4182-8bca-ea7edd9c101e)
 
 These achievements collectively deliver a comprehensive and user-centric GitHub Repositories Explorer, showcasing technical prowess and thoughtful design.
   
