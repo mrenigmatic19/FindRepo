@@ -3,7 +3,7 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 const fs = require('fs').promises;
 
 const getIndex = async (req, res) => {
-    res.render('index');
+    res.render('index',{message:req.flash('msg')});
 };
 
 

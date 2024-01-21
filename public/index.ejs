@@ -35,7 +35,11 @@
                         </div>
                 
                         <div class="col-12 mb-4">
-                          
+                            <% if(message.length>0) {%>
+                                <div class="alert alert-danger">
+                                  <%=message%>
+                                </div>
+                                <%}%>
                             <form class="input-group" method="post" action="/">
                                 <input type="text" class="form-control form-control-lg bg-light fs-6" placeholder="Input Username" name="username">
                                 <input type="submit" class="btn btn-lg btn-primary fs-6" style="background-color: #212021;" value="Search">
