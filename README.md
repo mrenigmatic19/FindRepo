@@ -1,4 +1,4 @@
-FindRepo :- Find Repositories by Username
+# FindRepo :- Find Repositories by Username
 ## Introduction:
  This project involves creating a web page that displays public Github repositories belonging to a specific user. The main goal is to design a user-friendly interface with functionality to retrieve and showcase repository information.
 ![Screenshot 2024-01-21 190203](https://github.com/mrenigmatic19/FindRepo/assets/96334291/e6176951-c084-4f80-b5c1-49ad68328e61)
