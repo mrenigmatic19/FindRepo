@@ -32,6 +32,8 @@ const postIndex = async (req, res) => {
                 company: Detail.company,
                 type: Detail.type,
                 url: Detail.html_url,
+                email:Detail.email,
+                location:Detail.location,
                 profile: Detail.avatar_url,
             };
 
@@ -49,7 +51,8 @@ const postIndex = async (req, res) => {
                     const data = {
                         description: element.description,
                         language: language,
-                        name: element.name
+                        name: element.name,
+                        url:element.html_url
                     };
                     reposData.push(data);
                 }

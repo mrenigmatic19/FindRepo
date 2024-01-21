@@ -6,6 +6,8 @@
     "company": null,
     "type": "User",
     "url": "https://github.com/mrenigmatic19",
+    "email": null,
+    "location": null,
     "profile": "https://avatars.githubusercontent.com/u/96334291?v=4"
   },
   [
@@ -16,7 +18,8 @@
         "JavaScript",
         "CSS"
       ],
-      "name": "AdminFort"
+      "name": "AdminFort",
+      "url": "https://github.com/mrenigmatic19/AdminFort"
     },
     {
       "description": null,
@@ -27,7 +30,8 @@
         "TypeScript",
         "HTML"
       ],
-      "name": "Assessment"
+      "name": "Assessment",
+      "url": "https://github.com/mrenigmatic19/Assessment"
     },
     {
       "description": null,
@@ -37,7 +41,8 @@
         "Python",
         "JavaScript"
       ],
-      "name": "ClearCam"
+      "name": "ClearCam",
+      "url": "https://github.com/mrenigmatic19/ClearCam"
     },
     {
       "description": "Learn Basic to Advanced Data Structures and Algorithms in your Favorite language (Go, Python, Javascript, C++, Java) [Contributions are welcome, Stars are highly appreciated!]",
@@ -48,24 +53,32 @@
         "Python",
         "JavaScript"
       ],
-      "name": "data-structures-and-algorithms"
+      "name": "data-structures-and-algorithms",
+      "url": "https://github.com/mrenigmatic19/data-structures-and-algorithms"
     },
     {
       "description": "tp",
       "language": [],
-      "name": "Enigma-Dungeon"
+      "name": "Enigma-Dungeon",
+      "url": "https://github.com/mrenigmatic19/Enigma-Dungeon"
     },
     {
       "description": null,
-      "language": [],
-      "name": "FindRepo"
+      "language": [
+        "EJS",
+        "JavaScript",
+        "CSS"
+      ],
+      "name": "FindRepo",
+      "url": "https://github.com/mrenigmatic19/FindRepo"
     },
     {
       "description": null,
       "language": [
         "Python"
       ],
-      "name": "imagedehaze"
+      "name": "imagedehaze",
+      "url": "https://github.com/mrenigmatic19/imagedehaze"
     },
     {
       "description": null,
@@ -75,7 +88,8 @@
         "CSS",
         "HTML"
       ],
-      "name": "MedaFind"
+      "name": "MedaFind",
+      "url": "https://github.com/mrenigmatic19/MedaFind"
     },
     {
       "description": null,
@@ -85,12 +99,14 @@
         "CSS",
         "HTML"
       ],
-      "name": "MedAppoint"
+      "name": "MedAppoint",
+      "url": "https://github.com/mrenigmatic19/MedAppoint"
     },
     {
       "description": null,
       "language": [],
-      "name": "mrenigmatic19"
+      "name": "mrenigmatic19",
+      "url": "https://github.com/mrenigmatic19/mrenigmatic19"
     },
     {
       "description": null,
@@ -99,17 +115,20 @@
         "CSS",
         "JavaScript"
       ],
-      "name": "My-Diary"
+      "name": "My-Diary",
+      "url": "https://github.com/mrenigmatic19/My-Diary"
     },
     {
       "description": null,
       "language": [],
-      "name": "Prada-Bezuban"
+      "name": "Prada-Bezuban",
+      "url": "https://github.com/mrenigmatic19/Prada-Bezuban"
     },
     {
       "description": null,
       "language": [],
-      "name": "Project"
+      "name": "Project",
+      "url": "https://github.com/mrenigmatic19/Project"
     },
     {
       "description": null,
@@ -117,14 +136,16 @@
         "C++",
         "Python"
       ],
-      "name": "projects"
+      "name": "projects",
+      "url": "https://github.com/mrenigmatic19/projects"
     },
     {
       "description": "Implementation of simple Blockchain using NodeJS & MongoDB",
       "language": [
         "JavaScript"
       ],
-      "name": "simple-blockchain-node-mongo"
+      "name": "simple-blockchain-node-mongo",
+      "url": "https://github.com/mrenigmatic19/simple-blockchain-node-mongo"
     },
     {
       "description": null,
@@ -132,12 +153,14 @@
         "Python",
         "Jupyter Notebook"
       ],
-      "name": "video-dehazing"
+      "name": "video-dehazing",
+      "url": "https://github.com/mrenigmatic19/video-dehazing"
     },
     {
       "description": null,
       "language": [],
-      "name": "VoiceLingo"
+      "name": "VoiceLingo",
+      "url": "https://github.com/mrenigmatic19/VoiceLingo"
     }
   ]
 ]

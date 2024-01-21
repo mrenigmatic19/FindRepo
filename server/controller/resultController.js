@@ -31,8 +31,9 @@ const getResult = async (req, res) => {
             paginatedData,
             currentPage: page,
             totalPages,
-            previous: page > 1 ? { page: page - 1, limit } : null,
-            next: page < totalPages ? { page: page + 1, limit } : null,
+            limit,
+            previous: page > 1 ?   page - 1  : null,
+            next: page < totalPages ?   page + 1  : null,
         };
 
         console.log(results);

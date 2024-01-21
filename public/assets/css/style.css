@@ -2,7 +2,25 @@
     display: flex;
     list-style: none;
     padding: 0;
+    font-size: 18px;
+    line-height: 2.5;
 }
+a {
+    text-decoration: none; /* Remove underline */
+    color: #212021; /* Set custom color, e.g., blue */
+}
+
+a:hover {
+    text-decoration: underline; /* Remove underline on hover */
+    color: black; /* Set custom color on hover, if needed */
+}
+.ab,.ab:hover {
+    text-decoration: none; /* Remove underline */
+    color: #fff; /* Set custom color, e.g., blue */
+}
+
+ 
+
 
 .pagination a {
     margin: 0 5px;
@@ -14,7 +32,7 @@
 }
 
 .pagination a.active {
-    background-color: #007bff;
+    background-color: #212021;
     color: #fff;
 }
 
