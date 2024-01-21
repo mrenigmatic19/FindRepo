@@ -77,9 +77,9 @@
                         </div>
                         <div class="mb-5 d-flex " style="flex-direction: row; margin:10px">
                             <% if (entry.language && entry.language.length > 0) { %>
-                            <% entry.language.slice(0, 4).forEach((lang, index, array) => { %>
+                            <% entry.language.slice(0, 3).forEach((lang, index, array) => { %>
                             <div class="language-box">
-                                <% if (index === 3) { %>
+                                <% if (index === 2) { %>
                                 <span class="btn btn-primary"  style="cursor: mouse; margin-left:10px;background-color: #212021;border-color:#100d19"><%= lang %>+</span>
                                 <% } else { %>
                                 <span class="btn btn-primary" style="cursor: mouse; margin-left:10px;background-color: #212021;border-color:#100d19"><%= lang %></span>
