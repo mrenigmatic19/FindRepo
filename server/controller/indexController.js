@@ -66,7 +66,12 @@ const postIndex = async (req, res) => {
                 res.redirect('/');
             }
         } else {
+            if(owner.status===404)
             req.flash('msg', 'Enter Correct Username');
+        else if(owner.status===403)
+            req.flash('msg','Use Limit Exeed')
+        else
+            req.flash('msg','Internal Api Error')
             res.redirect('/');
         }
     } catch (error) {
